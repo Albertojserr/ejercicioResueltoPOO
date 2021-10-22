@@ -1,5 +1,11 @@
+from Bloque import*
+from Si import*
+from MientrasQue import*
+from Mostrar import*
+
+
 class Visitante:
-    
+
     def __init__(self):
         # Indica el nivel actual de tabulación.
         self.tabulacion = 0

@@ -1,5 +1,6 @@
-from Bloque import *
-from Visitante import *
+from Visitante import*
+from principal import*
+from Mostrar import*
 class Visitable:
 
     def acepta(self, visitante):
